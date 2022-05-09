@@ -1,3 +1,4 @@
+# Display the position of the number entered
 nums = [233, 643, 647, 347]
 
 for num in nums:
