@@ -1,4 +1,5 @@
 # 2D array of integers and appending item to a row
+
 d_list = [[2, 5, 8], [3, 7, 4], [1, 6, 9], [4, 2, 0]]
 
 for item in d_list:
